@@ -4,3 +4,9 @@
 - Estrutura básica
 - Material de apoio
 
+### Módulo Entendendo o que é semântica
+- Semântica parte 1
+- Semântica parte 2
+
+
+
