@@ -8,5 +8,9 @@
 - Semântica parte 1
 - Semântica parte 2
 
+### Módulo como usar textos e links em HTML
+- Tags para textos
+- Tags para links
+
 
 
